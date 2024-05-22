@@ -18,7 +18,7 @@ webmessia-h@github
 -----------------------------------------------------------------------------------------
 🫡 I am a self taught C++ Developer
 
-📚 I'm studying for Bachelor degree in automation at Lviv Polytechinc National University
+📚 I'm studying for Bachelor degree in automation at Lviv Polytechnic National University
 
 🔎 I have a strong interest in Networking, AI and Embedded development
 
