@@ -33,7 +33,7 @@ webmessia-h@github
 
 <p>
 <a href="#"><img alt="C++" src = "https://img.shields.io/badge/C%2B%2B-black.svg?style=for-the-badge&logo=cplusplus&logoColor=white"></a>
-<a href="#"><img alt="C" src = "https://img.shields.io/badge/c-black?style=for-the-badge&logo=C&logoColor=white"></a>
+<a href="#"><img alt="C" src = "https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=white"></a>
 <a href="#"><img alt="Python" src = "https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=yellow"></a>
 <a href="#"><img alt="Lua" src = "https://img.shields.io/badge/LUA-black?style=for-the-badge&logo=lua&logoColor=white"></a>
 </p>
@@ -43,8 +43,7 @@ webmessia-h@github
 <p>
     <a href="#"><img alt="Qt" src="https://img.shields.io/badge/Qt-black?style=for-the-badge&logo=qt&logoColor=white"></a>
     <a href="#"><img alt="QML" src="https://img.shields.io/badge/QML-black?style=for-the-badge&logo=qt&logoColor=white"></a>
-    <a href="#"><img alt="STL" src="https://img.shields.io/badge/STL-black?style=for-the-badge&logo=cplusplus&logoColor=white"></a>
-
+    <a href="#"><img alt="STL" src="https://img.shields.io/badge/STL-black?style=for-the-badge&logo=cplusplus&logoColor=white"></a>    
 </p>
 
 ### 💻 Software and Tools
