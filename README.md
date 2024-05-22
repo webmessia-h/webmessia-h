@@ -3,9 +3,13 @@ Hi, I'm Danylo Volchenko!
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <img src="https://komarev.com/ghpvc/?username=webmessia-h&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="webmessia-h" />
 <br/>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jaini+Purva&duration=1000&pause=200&color=AFAAFFFF&center=true&vCenter=true&multiline=true&random=false&repeat=false&width=435&height=60&lines=if+something+can+be+done+by+a+man;consider+it+to+be+within+your+reach" alt="Typing SVG" />
+  </a>
+</p>
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=C%2B%2B+developer;Bachelor+in+automation;Always%20learning%20new%20things;I+use+Arch+btw;if+something+can+be+done;by+a+man;consider+it+to+be;within+your+reach&center=true&width=380&height=45"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jaini+Purva&size=36&duration=3500&pause=250&color=AFAAFFFF&center=true&vCenter=true&multiline=false&random=false&width=435&height=52&lines=C%2B%2B+developer;Always+learning+new+things;I+use+Arch+btw+:3;" alt="Typing SVG" /></a></a>
 </p>
 
 
@@ -21,8 +25,6 @@ webmessia-h@github
 ⌨️ Main languages: C++, C
 
 💖 In a complicated relationship with Qt framework
-
-💊 I use Arch btw :)
 
 🎼 Love progressive metal, classical, jazz and breakcore
 ```
