@@ -13,19 +13,19 @@ Hi, I'm Danylo Volchenko!
 ```
 webmessia-h@github
 -----------------------------------------------------------------------------------------
-💻 I am a self taught C++ Developer
+🫡 I am a self taught C++ Developer
 
 📚 I'm studying for Bachelor degree in automation at Lviv Polytechinc National University
 
-📝 I have a strong interest in Networking, AI and Embedded development
+🔎 I have a strong interest in Networking, AI and Embedded development
 
-🌟 Main languages: C++, C
+⌨️ Main languages: C++, C
 
 💖 In a complicated relationship with Qt framework
 
-💻 I use Arch btw :)
+💊 I use Arch btw :)
 
-🎵 Love progressive metal, classical, jazz and breakcore
+🎼 Love progressive metal, classical, jazz and breakcore
 ```
 <hr>
 
@@ -46,7 +46,7 @@ webmessia-h@github
     <a href="#"><img alt="STL" src="https://img.shields.io/badge/STL-black?style=for-the-badge&logo=cplusplus&logoColor=white"></a>    
 </p>
 
-### 💻 Software and Tools
+### 🛠️ Software and Tools
 
 <p>
   <a href="#"> <img alt"arch" src="https://img.shields.io/badge/arch-black?style=for-the-badge&logo=archlinux&logoColor=blue"></a>
