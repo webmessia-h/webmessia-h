@@ -1,11 +1,11 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jaini+Purva&size=50&duration=1000&pause=200&color=AFAAFFFF&center=true&vCenter=true&multiline=true&random=false&repeat=false&width=435&height=120&lines=Hi+I+am+Danylo+Volchenko" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jaini+Purva&size=50&duration=1000&pause=200&color=AFAAFFFF&center=true&vCenter=true&multiline=true&random=false&repeat=false&width=435&height=60&lines=Hi+I+am+Danylo+Volchenko" alt="Typing SVG" />
   </a>
 </p>
 <img src="https://komarev.com/ghpvc/?username=webmessia-h&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="webmessia-h" />
 <br/>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jaini+Purva&duration=1000&pause=200&color=AFAAFFFF&center=true&vCenter=true&multiline=true&random=false&repeat=false&width=435&height=104&lines=if+something+can+be+done+by+a+man;consider+it+to+be+within+your+reach" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jaini+Purva&duration=1000&pause=200&color=AFAAFFFF&center=true&vCenter=true&multiline=true&random=false&repeat=false&width=435&height=45&lines=if+something+can+be+done+by+a+man;consider+it+to+be+within+your+reach" alt="Typing SVG" />
   </a>
 </p>
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
