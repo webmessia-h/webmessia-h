@@ -28,6 +28,8 @@ webmessia-h@github
 💖 In a complicated relationship with Qt framework
 
 🎼 Love progressive metal, classical, jazz and breakcore
+
+🎸 Playing on electric guitar for 3 years, love to write music
 ```
 <hr>
 
