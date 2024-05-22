@@ -30,30 +30,29 @@ webmessia-h@github
 ### 💻 Programming Languages
 
 <p>
-<a href="#"><img alt="C++" src = "https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
-<a href="#"><img alt="C" src = "https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=C&logoColor=white"></a>
-<a href="#"><img alt="Python" src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
-<a href="#"><img alt="Lua" src = "https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white"></a>
+<a href="#"><img alt="C++" src = "https://img.shields.io/badge/C%2B%2B-black.svg?style=for-the-badge&logo=cplusplus&logoColor=white"></a>
+<a href="#"><img alt="C" src = "https://img.shields.io/badge/c-black?style=for-the-badge&logo=C&logoColor=white"></a>
+<a href="#"><img alt="Python" src = "https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=yellow"></a>
+<a href="#"><img alt="Lua" src = "https://img.shields.io/badge/LUA-black?style=for-the-badge&logo=lua&logoColor=white"></a>
 </p>
 
 ### 🧰 Frameworks and Libraries
 
 <p>
-    <a href="#"><img alt="Qt" src="https://img.shields.io/badge/Qt-092E20?style=for-the-badge&logo=Qt&logoColor=white"></a>
-    <a href="#"><img alt="QML" src="https://img.shields.io/badge/QML-092E20?style=for-the-badge&logo=ML&logoColor=white"></a>
-    <a href="#"><img alt="STL" src="https://img.shields.io/badge/STL-092E20?style=for-the-badge&logo=STD&logoColor=white"></a>
+    <a href="#"><img alt="Qt" src="https://img.shields.io/badge/Qt-black?style=for-the-badge&logo=qt&logoColor=white"></a>
+    <a href="#"><img alt="QML" src="https://img.shields.io/badge/QML-black?style=for-the-badge&logo=qt&logoColor=white"></a>
+    <a href="#"><img alt="STL" src="https://img.shields.io/badge/STL-black?style=for-the-badge&logo=cplusplus&logoColor=white"></a>
 
 </p>
 
 ### 💻 Software and Tools
 
 <p>
-    <a href="#"><img alt="GitHub" src = "https://img.shields.io/badge/github-%23121011.svg?&logo=github&logoColor=white&style=for-the-badge"></a>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?&logo=git&logoColor=white&style=for-the-badge"></a>
-   <a href="#"><img alt="vim" src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white&style=for-the-badge"></a>
-  <a href="#"><img alt="QtCreator" src="https://img.shields.io/badge/QtCreator-0078d7.svg?logo=QtCreator&logoColor=green&style=for-the-badge"></a>
-  <a href="#"><img alt="CLion" src="https://img.shields.io/badge/CLion-0078d7.svg?logo=CLion&logoColor=dark&style=for-the-badge"></a>
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge"></a>
+    <a href="#"><img alt="GitHub" src = "https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=white"></a>
+   <a href="#"><img alt="vim" src="https://img.shields.io/badge/Neovim-black?style=for-the-badge&logo=vim&logoColor=white"></a>
+  <a href="#"><img alt="QtCreator" src="https://img.shields.io/badge/QtCreator-black?style=for-the-badge&logo=qt&logoColor=white"></a>
+  <a href="#"><img alt="CLion" src="https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white"></a>
 </p>
    
 
