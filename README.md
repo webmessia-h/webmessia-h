@@ -3,10 +3,9 @@ Hi, I'm Danylo Volchenko!
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <img src="https://komarev.com/ghpvc/?username=webmessia-h&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="webmessia-h" />
 <br/>
-
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=C%2B%2B+developer;Bachelor+in+automation;Always%20learning%20new%20things;I+use+Arch+btw&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=C%2B%2B+developer;Bachelor+in+automation;Always%20learning%20new%20things;I+use+Arch+btw;if+something+can+be+done;by+a+man;consider+it+to+be;within+your+reach&center=true&width=380&height=45"></a>
 </p>
 
 
