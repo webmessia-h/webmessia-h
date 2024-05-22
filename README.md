@@ -6,7 +6,7 @@ Hi, I'm Danylo Volchenko!
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Enthusiast;C%2B%2B+developer;Bachelor+in+automation;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=C%2B%2B+developer;Bachelor+in+automation;Always%20learning%20new%20things;I+use+Arch+btw&center=true&width=380&height=45"></a>
 </p>
 
 
@@ -22,6 +22,8 @@ webmessia-h@github
 🌟 Main languages: C++, C
 
 💖 In a complicated relationship with Qt framework
+
+💻 I use Arch btw :)
 
 🎵 Love progressive metal, classical, jazz and breakcore
 ```
@@ -48,11 +50,12 @@ webmessia-h@github
 ### 💻 Software and Tools
 
 <p>
-    <a href="#"><img alt="GitHub" src = "https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white"></a>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=white"></a>
-   <a href="#"><img alt="vim" src="https://img.shields.io/badge/Neovim-black?style=for-the-badge&logo=vim&logoColor=white"></a>
+  <a href="#"> <img alt"arch" src="https://img.shields.io/badge/arch-black?style=for-the-badge&logo=archlinux&logoColor=blue"></a>
+   <a href="#"><img alt="vim" src="https://img.shields.io/badge/Neovim/Vim-black?style=for-the-badge&logo=vim&logoColor=white"></a>
   <a href="#"><img alt="QtCreator" src="https://img.shields.io/badge/QtCreator-black?style=for-the-badge&logo=qt&logoColor=white"></a>
   <a href="#"><img alt="CLion" src="https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white"></a>
+  <a href="#"><img alt="GitHub" src = "https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=white"></a>
 </p>
    
 
