@@ -84,9 +84,9 @@ webmessia-h@github
 
 ## Let's Work on Your Project Together!
 
-If you have any questions about C++ development, feel free to <a href="mailto:iamcreepingdeath01@gmail.com">contact me through email</a>.
+If you have any questions about C++ development, feel free to <a href="mailto:danylo.volchenko@gmail.com">contact me through email</a>.
 
-You can hire me as a freelancer on <a href="https://www.linkedin.com/in/danylovolchenko/">LinkedIn</a>.
+You can hire me on <a href="https://www.linkedin.com/in/danylovolchenko/">LinkedIn</a>.
 
   </td>
   <td width="50%" valign="top">
