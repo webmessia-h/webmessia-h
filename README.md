@@ -63,20 +63,10 @@ webmessia-h@github
 
 
 ## GitHub Stats
-
-
-|                                                                     Webmessia-h's Stats                                                                     |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Webmessia-h's github stats](https://github-readme-stats.vercel.app/api?username=webmessia-h&show_icons=true&theme=algolia) |
-| ![Webmessia-h's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=webmessia-h&theme=algolia)             | 
+ [![Webmessia-h's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=webmessia-h&theme=tokyonight&hide_border=true&card_height=244)](https://git.io/streak-stats) 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webmessia-h&langs_count=4&theme=tokyonight&hide_border=true&card_height=244)
+ [![Webmessia-h's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=webmessia-h&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
     
-
-|                                                                                                      Webmessia-h's Stars                                                                                                       |                                                           Top Languages                                                           |      
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=webmessia-h&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webmessia-h&langs_count=8&theme=algolia&layout=compact) |
-
-
-
 
 <table style="border: none">
   <tr>
