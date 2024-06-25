@@ -68,7 +68,7 @@ webmessia-h@github
 
 <p>
   <a href="#"> <img alt"arch" src="https://img.shields.io/badge/arch-black?style=for-the-badge&logo=archlinux&logoColor=blue"></a>
-   <a href="#"><img alt="vim" src="https://img.shields.io/badge/Neovim/Vim-black?style=for-the-badge&logo=vim&logoColor=white"></a>
+   <a href="#"><img alt="vim" src="https://img.shields.io/badge/Neovim-black?style=for-the-badge&logo=vim&logoColor=white"></a>
   <a href="#"><img alt="QtCreator" src="https://img.shields.io/badge/QtCreator-black?style=for-the-badge&logo=qt&logoColor=white"></a>
   <a href="#"><img alt="CLion" src="https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white"></a>
   <a href="#"><img alt="GitHub" src = "https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white"></a>
