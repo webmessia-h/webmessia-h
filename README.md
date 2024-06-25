@@ -16,7 +16,7 @@
 ```
 webmessia-h@github
 -----------------------------------------------------------------------------------------
-🫡 I am a self taught C++ Developer
+🫡n I am a self taught C++ Developer
 
 📚 I'm studying for Bachelor degree in automation at Lviv Polytechnic National University
 
@@ -28,7 +28,7 @@ webmessia-h@github
 
 🎼 Love progressive metal, classical, jazz and breakcore
 
-🎸 Playing on electric guitar for 3 years, love to write music
+🎸 Playing on electric guitar for 3 years now, love to write music
 ```
 <hr>
 
