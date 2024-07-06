@@ -16,7 +16,7 @@
 ```
 webmessia-h@github
 -----------------------------------------------------------------------------------------
-🫡n I am a self taught C++ Developer
+🫡 I am a self taught C++ Developer
 
 📚 I'm studying for Bachelor degree in automation at Lviv Polytechnic National University
 
