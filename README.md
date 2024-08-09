@@ -16,7 +16,7 @@
 ```
 webmessia-h@github
 -----------------------------------------------------------------------------------------
-🫡 I am a self taught C++ Developer
+🫡 I am a self taught C/C++ Developer
 
 📚 I'm studying for Bachelor degree in automation at Lviv Polytechnic National University
 
@@ -24,7 +24,7 @@ webmessia-h@github
 
 ⌨️ Main languages: C++, C
 
-💖 In a complicated relationship with Qt framework
+💖 In a complicated relationship with Qt framework and hexademical format
 
 🎼 Love progressive metal, classical, jazz and breakcore
 
@@ -38,12 +38,13 @@ webmessia-h@github
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
-    <a href="https://github.com/webmessia-h/watchpoint-ko.git"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=webmessia-h&repo=watchpoint-ko&theme=react&bg_color=1F222E&title_color=AFAAFFFF&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
-    <a href="https://github.com/webmessia-h/DNS-Proxy.git"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=webmessia-h&repo=DNS-Proxy&theme=react&bg_color=1F222E&title_color=AFAAFFFF&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
-    <a href="https://github.com/webmessia-h/clientProxyServer.git"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=webmessia-h&repo=clientProxyServer&theme=react&bg_color=1F222E&title_color=AFAAFFFF&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
-    <a href="https://github.com/webmessia-h/tcpClientServerGUI.git"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=webmessia-h&repo=tcpClientServerGUI&theme=react&bg_color=1F222E&title_color=AFAAFFFF&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/webmessia-h/findFileByName.git"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=webmessia-h&repo=findFileByName&theme=react&bg_color=1F222E&title_color=AFAAFFFF&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-youtube-cards"></a>
-    <a href="https://github.com/webmessia-h/linkedList.git"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=webmessia-h&repo=linkedList&theme=react&bg_color=1F222E&title_color=AFAAFFFF&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>    
+    <a href="https://github.com/webmessia-h/FAT32-Emu.git"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=webmessia-h&repo=FAT32-Emu&theme=react&bg_color=1F222E&title_color=AFAAFFFF&hide_border=true&icon_color=F8D866&show_icons=true" alt="readme-typing-svg"></a>
+    <a href="https://github.com/webmessia-h/watchpoint-ko.git"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=webmessia-h&repo=watchpoint-ko&theme=react&bg_color=1F222E&title_color=AFAAFFFF&hide_border=true&icon_color=F8D866&show_icons=true" alt="readme-typing-svg"></a>
+    <a href="https://github.com/webmessia-h/DNS-Proxy.git"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=webmessia-h&repo=DNS-Proxy&theme=react&bg_color=1F222E&title_color=AFAAFFFF&hide_border=true&icon_color=F8D866&show_icons=true" alt="readme-typing-svg"></a>
+    <a href="https://github.com/webmessia-h/clientProxyServer.git"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=webmessia-h&repo=clientProxyServer&theme=react&bg_color=1F222E&title_color=AFAAFFFF&hide_border=true&icon_color=F8D866&show_icons=true" alt="readme-typing-svg"></a>
+    <a href="https://github.com/webmessia-h/tcpClientServerGUI.git"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=webmessia-h&repo=tcpClientServerGUI&theme=react&bg_color=1F222E&title_color=AFAAFFFF&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/webmessia-h/findFileByName.git"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=webmessia-h&repo=findFileByName&theme=react&bg_color=1F222E&title_color=AFAAFFFF&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-youtube-cards"></a>
+    <a href="https://github.com/webmessia-h/linkedList.git"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=webmessia-h&repo=linkedList&theme=react&bg_color=1F222E&title_color=AFAAFFFF&hide_border=true&icon_color=F8D866&show_icons=true" alt="custom-icon-badges"></a>    
   </p>
 
   <a href="https://github.com/webmessia-h?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
@@ -110,7 +111,7 @@ You can hire me on <a href="https://www.linkedin.com/in/danylovolchenko/">Linked
 </table>
 
 ------
-Last Edited On: 21/06/2024
+Last Edited On: 10/08/2024
 
 
 
