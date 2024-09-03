@@ -72,8 +72,8 @@ webmessia-h@github
 ### 🛠️ Software and Tools
 
 <p>
-  <a href="#"> <img alt"arch" src="https://img.shields.io/badge/arch-black?style=for-the-badge&logo=archlinux&logoColor=blue"></a>
-   <a href="#"><img alt="vim" src="https://img.shields.io/badge/Neovim-black?style=for-the-badge&logo=vim&logoColor=white"></a>
+  <a href="#"> <img alt"Nix" src="https://img.shields.io/badge/nixos-black?style=for-the-badge&logo=nixos&logoColor=white"></a>
+   <a href="#"><img alt="Nixvi" src="https://img.shields.io/badge/Nixvi-black?style=for-the-badge&logo=vim&logoColor=white"></a>
   <a href="#"><img alt="QtCreator" src="https://img.shields.io/badge/QtCreator-black?style=for-the-badge&logo=qt&logoColor=white"></a>
   <a href="#"><img alt="CLion" src="https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white"></a>
   <a href="#"><img alt="GitHub" src = "https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -84,7 +84,7 @@ webmessia-h@github
 
 ## GitHub Stats
  [![Webmessia-h's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=webmessia-h&theme=tokyonight&hide_border=true&card_height=244)](https://git.io/streak-stats) 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webmessia-h&langs_count=5&theme=tokyonight&hide_border=true&card_height=244)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webmessia-h&langs_count=4&theme=tokyonight&hide_border=true&card_height=244)
  [![Webmessia-h's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=webmessia-h&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
     
 
@@ -113,7 +113,7 @@ You can hire me on <a href="https://www.linkedin.com/in/danylovolchenko/">Linked
 </table>
 
 ------
-Last Edited On: 10/08/2024
+Last Edited On: 9/3/2024
 
 
 
