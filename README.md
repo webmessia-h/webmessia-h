@@ -8,7 +8,7 @@
 </p>
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jaini+Purva&size=36&duration=3500&pause=250&color=AFAAFFFF&center=true&vCenter=true&multiline=false&random=false&width=435&height=52&lines=C/C%2B%2B+developer;Always+learning+new+things;I+use+Arch+btw+:3;" alt="Typing SVG" /></a></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jaini+Purva&size=36&duration=3500&pause=250&color=AFAAFFFF&center=true&vCenter=true&multiline=false&random=false&width=435&height=52&lines=C/C%2B%2B+developer;Always+learning+new+things;I+use+Nix+btw+:3;" alt="Typing SVG" /></a></a>
 </p>
 <img src="https://komarev.com/ghpvc/?username=webmessia-h&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="webmessia-h" />
 <br/>
