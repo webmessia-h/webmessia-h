@@ -6,29 +6,22 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jaini+Purva&duration=1000&pause=1&color=AFAAFFFF&center=true&vCenter=true&multiline=true&random=false&repeat=false&width=435&height=64&lines=if+something+can+be+done+by+a+man;consider+it+to+be+within+your+reach" alt="Typing SVG" />
   </a>
 </p>
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jaini+Purva&size=36&duration=3500&pause=250&color=AFAAFFFF&center=true&vCenter=true&multiline=false&random=false&width=435&height=52&lines=C/C%2B%2B+developer;Always+learning+new+things;I+use+Nix+btw+:3;" alt="Typing SVG" /></a></a>
 </p>
 <img src="https://komarev.com/ghpvc/?username=webmessia-h&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="webmessia-h" />
 <br/>
+-->
 
 ```
 webmessia-h@github
 -----------------------------------------------------------------------------------------
-🫡 I am a self taught C/C++ Developer
+I am a self taught C/C++ Developer
 
-📚 I'm studying for Bachelor degree in automation at Lviv Polytechnic National University
+I have a strong interest in Networking, Linux Kernel and Embedded development
 
-🔎 I have a strong interest in Networking, AI and Embedded development
-
-⌨️ Main languages: C++, C
-
-💖 In a complicated relationship with Qt framework and hexademical format
-
-🎼 Love progressive metal, classical, jazz and breakcore
-
-🎸 Playing on electric guitar for 3 years now, love to write music
+Main languages: C, C++
 ```
 <hr>
 
@@ -39,14 +32,14 @@ webmessia-h@github
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
     <p align="left">
-       <a href="https://github.com/webmessia-h/DNS-Proxy.git"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=webmessia-h&repo=DNS-Proxy&theme=react&bg_color=1F222E&title_color=AFAAFFFF&hide_border=true&icon_color=F8D866&show_icons=true" alt="readme-typing-svg"></a>
-    <a href="https://github.com/webmessia-h/nixvi.git"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=webmessia-h&repo=nixvi&theme=react&bg_color=1F222E&title_color=AFAAFFFF&hide_border=true&icon_color=F8D866&show_icons=true" alt="readme-typing-svg"></a>
-    <a href="https://github.com/webmessia-h/FAT32-Emu.git"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=webmessia-h&repo=FAT32-Emu&theme=react&bg_color=1F222E&title_color=AFAAFFFF&hide_border=true&icon_color=F8D866&show_icons=true" alt="readme-typing-svg"></a>
-    <a href="https://github.com/webmessia-h/watchpoint-ko.git"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=webmessia-h&repo=watchpoint-ko&theme=react&bg_color=1F222E&title_color=AFAAFFFF&hide_border=true&icon_color=F8D866&show_icons=true" alt="readme-typing-svg"></a>
-    <a href="https://github.com/webmessia-h/clientProxyServer.git"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=webmessia-h&repo=clientProxyServer&theme=react&bg_color=1F222E&title_color=AFAAFFFF&hide_border=true&icon_color=F8D866&show_icons=true" alt="readme-typing-svg"></a>
-    <a href="https://github.com/webmessia-h/tcpClientServerGUI.git"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=webmessia-h&repo=tcpClientServerGUI&theme=react&bg_color=1F222E&title_color=AFAAFFFF&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/webmessia-h/findFileByName.git"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=webmessia-h&repo=findFileByName&theme=react&bg_color=1F222E&title_color=AFAAFFFF&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-youtube-cards"></a>
-    <a href="https://github.com/webmessia-h/linkedList.git"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=webmessia-h&repo=linkedList&theme=react&bg_color=1F222E&title_color=AFAAFFFF&hide_border=true&icon_color=F8D866&show_icons=true" alt="custom-icon-badges"></a>    
+       <a href="https://github.com/webmessia-h/DNS-Proxy.git"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=webmessia-h&repo=DNS-Proxy&theme=react&&title_color=AFAAFFFF&hide_border=true&icon_color=F8D866&show_icons=true" alt="readme-typing-svg"></a>
+    <a href="https://github.com/webmessia-h/nixvi.git"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=webmessia-h&repo=nixvi&theme=react&title_color=AFAAFFFF&hide_border=true&icon_color=F8D866&show_icons=true" alt="readme-typing-svg"></a>
+    <a href="https://github.com/webmessia-h/FAT32-Emu.git"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=webmessia-h&repo=FAT32-Emu&theme=react&title_color=AFAAFFFF&hide_border=true&icon_color=F8D866&show_icons=true" alt="readme-typing-svg"></a>
+    <a href="https://github.com/webmessia-h/watchpoint-ko.git"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=webmessia-h&repo=watchpoint-ko&theme=react&title_color=AFAAFFFF&hide_border=true&icon_color=F8D866&show_icons=true" alt="readme-typing-svg"></a>
+    <a href="https://github.com/webmessia-h/clientProxyServer.git"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=webmessia-h&repo=clientProxyServer&theme=react&title_color=AFAAFFFF&hide_border=true&icon_color=F8D866&show_icons=true" alt="readme-typing-svg"></a>
+    <a href="https://github.com/webmessia-h/tcpClientServerGUI.git"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=webmessia-h&repo=tcpClientServerGUI&theme=react&title_color=AFAAFFFF&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/webmessia-h/findFileByName.git"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=webmessia-h&repo=findFileByName&theme=react&title_color=AFAAFFFF&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-youtube-cards"></a>
+    <a href="https://github.com/webmessia-h/linkedList.git"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=webmessia-h&repo=linkedList&theme=react&title_color=AFAAFFFF&hide_border=true&icon_color=F8D866&show_icons=true" alt="custom-icon-badges"></a>    
   </p>
 
   <a href="https://github.com/webmessia-h?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
@@ -75,7 +68,6 @@ webmessia-h@github
   <a href="#"> <img alt"Nix" src="https://img.shields.io/badge/nixos-black?style=for-the-badge&logo=nixos&logoColor=white"></a>
    <a href="#"><img alt="Nixvi" src="https://img.shields.io/badge/Nixvi-black?style=for-the-badge&logo=vim&logoColor=white"></a>
   <a href="#"><img alt="QtCreator" src="https://img.shields.io/badge/QtCreator-black?style=for-the-badge&logo=qt&logoColor=white"></a>
-  <a href="#"><img alt="CLion" src="https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white"></a>
   <a href="#"><img alt="GitHub" src = "https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=white"></a>
 </p>
@@ -83,8 +75,13 @@ webmessia-h@github
 
 
 ## GitHub Stats
- [![Webmessia-h's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=webmessia-h&theme=tokyonight&hide_border=true&card_height=244)](https://git.io/streak-stats) 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webmessia-h&langs_count=4&theme=tokyonight&hide_border=true&card_height=244)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=215 align="center" src="https://github-readme-stats.vercel.app/api?username=webmessia-h&show_icons=true&theme=bear&bg_color=00000000&hide_border=true&include_all_commits=true&hide_rank=true)">
+  </a>
+  
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webmessia-h&langs_count=4&theme=bear&bg_color=00000000&hide_border=true&card_height=300&hide=Nix,CMake&layout=donut">
+</a>
 
 <table style="border: none">
   <tr>
