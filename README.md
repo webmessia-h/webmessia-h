@@ -72,17 +72,6 @@ Main languages: C, C++
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=white"></a>
 </p>
    
-
-
-## GitHub Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=215 align="center" src="https://github-readme-stats.vercel.app/api?username=webmessia-h&show_icons=true&theme=bear&bg_color=00000000&hide_border=true&include_all_commits=true&hide_rank=true)">
-  </a>
-  
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webmessia-h&langs_count=4&theme=bear&bg_color=00000000&hide_border=true&card_height=300&hide=Nix,CMake&layout=donut">
-</a>
-
 <table style="border: none">
   <tr>
   <td width="50%" valign="top">
