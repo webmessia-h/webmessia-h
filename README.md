@@ -17,7 +17,7 @@
 ```
 webmessia-h@github
 -----------------------------------------------------------------------------------------
-I am a self taught C/C++ Developer
+C, C++ Developer
 
 I have a strong interest in Networking, Linux Kernel and Embedded development
 
@@ -38,8 +38,6 @@ Main languages: C, C++
     <a href="https://github.com/webmessia-h/watchpoint-ko.git"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=webmessia-h&repo=watchpoint-ko&theme=react&title_color=AFAAFFFF&hide_border=true&icon_color=F8D866&show_icons=true" alt="readme-typing-svg"></a>
     <a href="https://github.com/webmessia-h/clientProxyServer.git"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=webmessia-h&repo=clientProxyServer&theme=react&title_color=AFAAFFFF&hide_border=true&icon_color=F8D866&show_icons=true" alt="readme-typing-svg"></a>
     <a href="https://github.com/webmessia-h/tcpClientServerGUI.git"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=webmessia-h&repo=tcpClientServerGUI&theme=react&title_color=AFAAFFFF&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/webmessia-h/findFileByName.git"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=webmessia-h&repo=findFileByName&theme=react&title_color=AFAAFFFF&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-youtube-cards"></a>
-    <a href="https://github.com/webmessia-h/linkedList.git"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=webmessia-h&repo=linkedList&theme=react&title_color=AFAAFFFF&hide_border=true&icon_color=F8D866&show_icons=true" alt="custom-icon-badges"></a>    
   </p>
 
   <a href="https://github.com/webmessia-h?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
@@ -48,15 +46,17 @@ Main languages: C, C++
 ### 💻 Programming Languages
 
 <p>
-<a href="#"><img alt="C++" src = "https://img.shields.io/badge/C%2B%2B-black.svg?style=for-the-badge&logo=cplusplus&logoColor=white"></a>
-<a href="#"><img alt="C" src = "https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=white"></a>
-<a href="#"><img alt="Python" src = "https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=yellow"></a>
-<a href="#"><img alt="Lua" src = "https://img.shields.io/badge/LUA-black?style=for-the-badge&logo=lua&logoColor=white"></a>
+<a href="#"><img alt="C" src = "https://img.shields.io/badge/C-black?style=for-the-badge&logoColor=white"></a>
+<a href="#"><img alt="C++" src = "https://img.shields.io/badge/C%2B%2B-black.svg?style=for-the-badge&logoColor=white"></a>
+<a href="#"><img alt="Bash" src = "https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnubash&logoColor=white"></a>
+<a href="#"><img alt="Lua" src = "https://img.shields.io/badge/ASM-black?style=for-the-badge&logo=asm&logoColor=white"></a>
 </p>
 
 ### 🧰 Frameworks and Libraries
 
 <p>
+    <a href="#"><img alt="Ambiorix" src="https://img.shields.io/badge/Ambiorix-black?style=for-the-badge&logo=Ambiorix&logoColor=white"></a>
+    <a href="#"><img alt="PIVA" src="https://img.shields.io/badge/PIVA-black?style=for-the-badge&logo=PIVA&logoColor=white"></a>
     <a href="#"><img alt="Qt" src="https://img.shields.io/badge/Qt-black?style=for-the-badge&logo=qt&logoColor=white"></a>
     <a href="#"><img alt="QML" src="https://img.shields.io/badge/QML-black?style=for-the-badge&logo=qt&logoColor=white"></a>
     <a href="#"><img alt="STL" src="https://img.shields.io/badge/STL-black?style=for-the-badge&logo=cplusplus&logoColor=white"></a>    
@@ -65,11 +65,13 @@ Main languages: C, C++
 ### 🛠️ Software and Tools
 
 <p>
-  <a href="#"> <img alt"Nix" src="https://img.shields.io/badge/nixos-black?style=for-the-badge&logo=nixos&logoColor=white"></a>
-   <a href="#"><img alt="Nixvi" src="https://img.shields.io/badge/Nixvi-black?style=for-the-badge&logo=vim&logoColor=white"></a>
+  <a href="#"><img alt="vim" src="https://img.shields.io/badge/vim-black?style=for-the-badge&logo=vim&logoColor=white"></a>
+  <a href="#"><img alt="PrplOS" src="https://img.shields.io/badge/PrplOS-black?style=for-the-badge&logo=PrplOS&logoColor=white"></a>
+  <a href="#"><img alt="OpenWRT" src="https://img.shields.io/badge/OpenWrt-black?style=for-the-badge&logo=OpenWrt&logoColor=white"></a>
   <a href="#"><img alt="QtCreator" src="https://img.shields.io/badge/QtCreator-black?style=for-the-badge&logo=qt&logoColor=white"></a>
   <a href="#"><img alt="GitHub" src = "https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white"></a>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=white"></a>
+  <a href="#"><img alt="GitLab" src="https://img.shields.io/badge/gitlab-black?style=for-the-badge&logo=gitlab&logoColor=white"></a>
+  <a href="#"><img alt="Git" src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=white"></a>
 </p>
    
 <table style="border: none">
